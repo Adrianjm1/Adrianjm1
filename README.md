@@ -1,15 +1,16 @@
-### Hi there 👋
+
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Adrian.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer computer engineering at Universidad Rafael Belloso Chacin.
 - 🌱 &nbsp; Learning more about Web develpoment, and mobile development.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Like to learn something about graphic design as a hobby.
+- 🎮 &nbsp; Love to play videogames.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -44,13 +45,13 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://adrianjm1.github.io/Personal-Website/"><img alt="Website" src="https://img.shields.io/badge/Website-https://adrianjm1.github.io/Personal-Website/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/adrian-molina-187721207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adrian-molina-187721207%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://adrianjm1.github.io/Personal-Website/"><img alt="Website" src="https://img.shields.io/badge/Website-https://adrianjm1.github.io/Personal-Website/"></a>
+<a href="https://www.linkedin.com/in/adrian-molina-187721207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adrian%20Molina-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adrianjm01/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adrianjm01_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:adrianmolina39@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adrianmolina39-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+
 
 <!--
 **Adrianjm1/Adrianjm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
