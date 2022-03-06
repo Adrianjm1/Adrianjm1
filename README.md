@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer computer engineering at Universidad Rafael Belloso Chacin.
-- 🌱 &nbsp; Learning more about Web develpoment, and mobile development.
-- ✍️ &nbsp; Like to learn something about graphic design as a hobby.
+- 🌱 &nbsp; Improving my knowledges about Web develpoment.
+- ✍️ &nbsp; Like to learn somethings about graphic design and cryptocurrencies as a hobby.
 - 🎮 &nbsp; Love to play videogames.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
