@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer computer engineering at Universidad Rafael Belloso Chacin.
+- 🎓 &nbsp; Software engineer.
 - 🌱 &nbsp; Improving my knowledges about Web develpoment.
 - ✍️ &nbsp; Like to learn somethings about graphic design and cryptocurrencies as a hobby.
 - 🎮 &nbsp; Love to play videogames.
