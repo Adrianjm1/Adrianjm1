@@ -38,7 +38,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianjm1&theme=radical&layout=compact" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Adrianjm1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Adrianjm1&theme=radical)](https://git.io/streak-stats)
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
