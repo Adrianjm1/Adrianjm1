@@ -36,9 +36,9 @@
 <a href="https://github.com/Adrianjm1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianjm1&theme=radical&show_icons=true&count_private=true&hide=stars,issues" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianjm1&theme=radical&layout=compact" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Adrianjm1)](https://git.io/streak-stats)
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Adrianjm1&theme=dark)](https://git.io/streak-stats)
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
