@@ -39,8 +39,9 @@
  
 </a>
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Adrianjm1&theme=radical)](https://git.io/streak-stats)
-<br/>
 
+<br/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Adrianjm1&theme=radical)](https://git.io/streak-stats)
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
