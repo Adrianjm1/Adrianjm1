@@ -34,10 +34,11 @@
 <br/>
 
 <a href="https://github.com/Adrianjm1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianjm1&theme=radical&show_icons=true&count_private=true&hide=stars,issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianjm1&theme=radical&layout=compact" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianjm1&stroke=10b981&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=10b981&currStreakLabel=ec4899&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianjm1&theme=dark&show_icons=true&count_private=true&hide=stars,issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianjm1&theme=dark&layout=compact" />
+<img src="https://streak-stats.demolab.com/?user=adrianjm1&theme=dark" />
 </a>
+
 
 <br/>
 
