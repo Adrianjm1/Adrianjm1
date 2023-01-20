@@ -39,9 +39,11 @@
 <img src="https://streak-stats.demolab.com/?user=adrianjm1&theme=dark" />
 
 <!--
+
 <a href="https://github.com/Adrianjm1">
 <img src="https://streak-stats.demolab.com/?user=adrianjm1&theme=dark" />
 </a>
+
 -->
 <br/>
 
