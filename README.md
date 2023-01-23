@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Software engineer.
 - 🌱 &nbsp; Improving my knowledges about Web development.
 - ✍️ &nbsp; Like to learn somethings about graphic design and cryptocurrencies as a hobby.
-- 🎮 &nbsp; Love to play videogames.
+- 🎮 &nbsp; Love playing videogames.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
