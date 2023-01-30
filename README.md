@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Software engineer.
+- 🎓 &nbsp; Software engineer / Full Stack Developer.
 - 🌱 &nbsp; Improving my knowledges about Web development.
 - ✍️ &nbsp; Like to learn somethings about graphic design and cryptocurrencies as a hobby.
 - 🎮 &nbsp; Love playing videogames.
