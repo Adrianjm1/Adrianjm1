@@ -1,6 +1,7 @@
 
 
 <h2> Hey there! I'm Adrian.</h2>
+<h3> Software Engineer.</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
